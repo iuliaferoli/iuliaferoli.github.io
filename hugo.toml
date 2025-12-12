@@ -1,4 +1,4 @@
-baseURL = "http://backtoengineering.com"
+baseURL = "http://backtoengineering.com/"
 languageCode = "en-us"
 title = "Back to Engineering"
 theme = "kawaii"
