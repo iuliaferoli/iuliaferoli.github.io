@@ -25,22 +25,27 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "mailto:contact@backtoengineering.com"
       weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: GitHub
+    - name: YouTube
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://youtube.com/@backtoengineering"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/iuliaferoli"
       params:
-        icon: x-twitter
+        icon: github
+    - name: Instagram
+      weight: 6
+      url: "https://www.instagram.com/backtoengineering/"
+      params:
+        icon: instagram
 
 params:
   navbar:
